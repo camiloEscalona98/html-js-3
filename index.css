@@ -1,0 +1,24 @@
+
+.forma{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    width: 700px;
+    height: 700px;
+}
+.centro{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.caja{
+    width: 200px;
+}
+.imagenes{
+    margin-left: 50px;
+    width: 300px;
+    height: 300px;
+}
